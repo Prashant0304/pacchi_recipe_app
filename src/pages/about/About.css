@@ -1,0 +1,36 @@
+.aboutWrapper{
+        display: flex;
+        flex-direction: column;
+}
+.contentWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: large;
+    padding: 10px;
+    background-color: black;
+    color: orange;
+    border-radius: 10px;
+}
+.offerWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: large;
+    padding: 10px;
+    background-color: black;
+    color: orange;
+    border-radius: 10px;
+}
+
+.devWrapper{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.abtdevWrapper{
+    font-weight: bold; 
+    justify-content: center;
+    color:brown;
+}
