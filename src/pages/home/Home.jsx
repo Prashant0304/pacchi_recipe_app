@@ -32,6 +32,7 @@ const Home =()=>{
     // useEffect(()=>{
     //     getData();
     // },[]);
+    
     return(
         <div>
             <Header 
