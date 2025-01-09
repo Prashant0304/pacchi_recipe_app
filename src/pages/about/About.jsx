@@ -31,7 +31,7 @@ const About=()=>{
                     About Developer
             </div>
             <div className="abtdevWrapper">
-                    <i>This application developed By <a href="https://linkedin.com/in/purushottam-pattanashetty-565215166" target="_blank">Purushottam</a></i>
+                    <i>This application developed By Purushottam</i>
                             <p>
                                 I’m Purushottam Pattanashetty, a passionate and driven software engineer with a strong foundation in full-stack web 
                                 development and programming.I hold a Master’s degree in Computer Applications. <br /> I have worked on building robust web
@@ -40,7 +40,7 @@ const About=()=>{
                                 impact in the tech world.
                              </p>
             </div>
-           
+            
             
         </div>
     );
